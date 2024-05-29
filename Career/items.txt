@@ -1,0 +1,42 @@
+Work Experience
+
+Options Insurance Agency
+
+Stevens Technical Enrichment Program (STEP) Tutor-RA
+
+- Parsed through large Excel files using Pandas for Python using Natural Language Processing 
+- Utilized logging to generate statistic reports of repeated insurance policy cancels to model likelihood of customer canceling policy
+- Leveraged Selenium for Python to automate welcome, canceled policy and pending expiration text messages for web-based insurance management service
+- Used PDF data to detect signatures in signed insurance applications to be marked and uploaded appropriately 
+- Spearheaded project that redesigned company website to emphasize easy of use and navigability
+
+
+
+Projects
+
+AI-based Lie Detection Mobile Application Stevens Institute of Technology, 2024
+Contributed as a Software Developer in a team project to develop an AI-based mobile application for detecting and
+analyzing voice stress to verify validity of human speech
+• Implemented Agile Methodologies: Actively participated in iterative development cycles (sprints), contributing
+to the planning, execution, and review phases using Jira for task management and sprint planning.
+• Cross-functional Team Collaboration: Worked closely within a cross-functional team, including software devel-
+opers, machine learning analysts, and UX/UI designers, utilizing GitHub for version control and Slack for team
+communication.
+
+The Effect of Typography on Engagement Stevens Institute of Technology, 2024
+Developed an innovative extension to evaluate how typographic changes influence user engagement and comprehen-
+sion
+• User Experience Insight: Conducted surveys on text difficulty, aesthetics, and user investment, providing valu-
+able insights into the practical applications of typography in human-computer interaction (HCI).
+• Team Collaboration: Collaborated with a multi-disciplinary team, showcasing strong interpersonal and project
+management skills in a research context.
+• Communication Skills: Effectively presented project findings and methodologies to both technical and non-
+technical audiences, highlighting exceptional oral and written communication abilities
+
+InnovateX (Autonomous Vehicle Software Development)
+Responsibilities:
+    Developed and integrated real-time decision-making algorithms for autonomous vehicle operation.
+    Implemented advanced object detection for implementation with LiDAR and other sensor technologies.
+    Conducted rigorous testing to ensure software reliability and availability in mission-critical environments.
+    Collaborated with a team to gather and analyze data for continuous improvement of the system.
+    Utilized IoT technologies for real-time data collection and cloud-based data analysis.
